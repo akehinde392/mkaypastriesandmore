@@ -96,6 +96,8 @@ body {
     padding: 50px;
     background-color: #f8f0e3;
     color: #333;
+    width: 100vw;
+    height: 150vh;
 }
 
 .hero-content {
